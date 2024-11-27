@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "jsonwebtoken": "^8.0.1",
-    "jwk-to-pem": "^1.2.6",
+    "jwk-to-pem": "^2.0.7",
     "request": "^2.83.0"
   }
 }
